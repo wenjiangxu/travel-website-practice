@@ -56,7 +56,3 @@ A responsive travel website demo built with vanilla JavaScript and modern CSS, f
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
